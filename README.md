@@ -1,1 +1,1 @@
-# Algoridom-repo
+# Algorithms_Lab
